@@ -7,7 +7,7 @@
  * https://raw.githubusercontent.com/tobiashochguertel/draw-io/master/C4-drawIO.xml
  */
 Draw.loadPlugin(function (ui) {
-    var sidebar_id = 'c4';
+    var sidebar_id = 'c4Albar';
     var sidebar_title = 'C4 Notation';
 
     var c4Utils = {};
